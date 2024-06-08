@@ -50,36 +50,23 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Storage",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "storage/attachment-upload"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Table Records",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "table-records/list-table-records",
+        "table-records/create-table-records",
+        "table-records/delete-table-records",
+        "table-records/update-table-records",
+        "table-records/read-table-record",
+        "table-records/count-table-records",
+        "table-records/list-linked-records",
+        "table-records/link-records",
+        "table-records/unlink-records"
       ]
     }
   ],
